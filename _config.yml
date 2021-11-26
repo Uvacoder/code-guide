@@ -1,6 +1,6 @@
-name: Code Guide by @mdo
+name: Code Guide 
 description: Standards for developing consistent, flexible, and sustainable HTML and CSS.
-url: https://codeguide.co
+url: https://uvacoder.github.io/code-guide/
 permalink: pretty
 sass:
   style: compressed
